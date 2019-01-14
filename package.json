@@ -1,0 +1,20 @@
+{
+  "name": "tcp",
+  "version": "1.0.0",
+  "description": "A basic node tcp client and server",
+  "main": "client.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node server.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/oyekunle-mark/ping-pong.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/oyekunle-mark/ping-pong/issues"
+  },
+  "homepage": "https://github.com/oyekunle-mark/ping-pong#readme"
+}
